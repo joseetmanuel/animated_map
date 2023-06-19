@@ -1,13 +1,13 @@
-Real Time Bus Tracker
-Description of the project: 
+#Real Time Bus Tracker
+##Description of the project: 
     Proyecto para trabajar con marcadores
     Solo agregue un nuevo marcador cada que avanza
-How to Run: 
-hayq eu loguearse en la página https://account.mapbox.com/ para tener token, cambiarlo en la linea 16 del js
+##How to Run: 
+    hay que loguearse en la página https://account.mapbox.com/ para tener token, cambiarlo en la linea 16 del js
     Solo se descarga y se carga la pagina se da clic en el boton y tadan
-Roadmap of future improvements: 
+##Roadmap of future improvements: 
     Pues como crear mapas y marcadores
-License information: 
+##License information: 
     MIT License
 
     Copyright (c) 2020 kogsio
