@@ -1,13 +1,15 @@
 # Real Time Bus Tracker #
 
 ## Description of the project: ##
-Proyecto para trabajar con marcadores
-Solo agregue un nuevo marcador cada que avanza
+Proyecto para trabajar con marcadores, y mapas, con la librería de mapbox se pueden crear mapas y en su página esta toda la info de la api, aquí solofuimos creando marcadores de acuerdo a una matriz con las cooredenadas de las paradas para llegar del MIT a harvard.
+
 ## How to Run: ##
 hay que loguearse en la página https://account.mapbox.com/ para tener token, cambiarlo en la linea 16 del js
 Solo se descarga y se carga la pagina se da clic en el boton y tadan
+
 ## Roadmap of future improvements: ##
 Pues como crear mapas y marcadores
+
 ## License information: ##
     MIT License
 
